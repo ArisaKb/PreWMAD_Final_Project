@@ -1,0 +1,261 @@
+/*
+*/
+
+*{
+	margin:0; 
+}
+
+body{
+	font:bold 40px monospace;
+	text-decoration: none;
+}
+
+
+
+.topnav{
+	background-image:  url("donuts1.jpg");
+	height: 250px;
+}
+
+.topnav a{
+	text-decoration: none;
+	color: white;
+	font-size: 32px;
+	word-spacing: 300px;
+	margin-left: 10px;
+}
+
+
+h1{
+	font: bold monospace;
+	color:white;
+	font-size: 100px;
+	text-align: center;
+	border-width: 10px;
+}
+
+h3{
+	margin-left: 8px; 
+	color: #FE7F9C;
+	text-shadow: -1px 1px 0 #FFFADA,
+                 1px 1px 0 #FFFADA,
+                 1px -1px 0 #FFFADA,
+                 -1px -1px 0 #FFFADA;
+}
+
+
+.donuts {
+	font-size: 20px;
+	display:inline-block;
+	text-align: center;
+	font-family: monospace;
+	font-weight: bold; 
+	margin-left: 8px;
+}
+
+img{
+	width: 270px;
+}
+
+form{
+	font-size: 23px;
+}
+
+input{
+	height: 23px;
+}
+
+#quantity{
+	height: 25px;
+	width: 130px;
+	text-align-last:center;
+	font:bold;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.orderfm{
+	margin-left: 8px;
+}
+
+.orderfm input{
+	width: 400px;
+}
+
+.check{
+	margin-left: 8px;
+}
+
+.btn{
+	margin-left: 8px;
+	height: 40px;	
+	width: 230px;
+	font: bold 19px Arial;
+	border-radius: 10%;
+	border-color: pink;
+	background-color: #E11584;
+	color: white;
+}
+
+table{
+	font-size: 23px;
+}
+
+.contactfm{
+	height: 200px;
+	width: 400px;	
+}
+
+footer{
+	background-image: url("footer.jpg");
+	font-size: 15px;
+	height: 80px;
+	left:0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+
+@media only screen and (max-device-width: 736px) {
+        
+        *{
+	margin:0; 
+}
+
+body{
+	font:bold 40px monospace;
+	text-decoration: none;
+}
+
+
+
+.topnav{
+	background-image:  url("donuts1.jpg");
+	height: 150px;
+}
+
+.topnav a{
+	text-decoration: none;
+	color: white;
+	font-size: 23px;
+	word-spacing: 50px;
+	margin-left: 11px;
+}
+
+
+h1{
+	font: bold monospace;
+	color:white;
+	font-size: 37px;
+	text-align: center;
+	border-width: 10px;
+}
+
+h3{
+	margin-left: 8px; 
+	color: #FE7F9C;
+	text-shadow: -1px 1px 0 #FFFADA,
+                 1px 1px 0 #FFFADA,
+                 1px -1px 0 #FFFADA,
+                 -1px -1px 0 #FFFADA;
+}
+
+h3#menu{
+	margin-top: -50px;
+}
+
+h3{
+	font-weight: bold;
+}
+
+.donuts {
+	font-size: 14px;
+	display:inline-block;
+	text-align: center;
+	font-family: monospace;
+	font-weight: bold; 
+	margin-left: 14px;
+}
+
+.dn3 .dn4{
+	margin-top: 100px;
+}
+
+img{
+	width: 150px;
+	margin-top: 20px;
+}
+
+form{
+	font-size: 23px;
+}
+
+input{
+	height: 23px;
+}
+
+#quantity{
+	height: 19px;
+	width: 90px;
+	text-align-last:center;
+	font:bold;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.orderfm{
+	margin-left: 8px;
+	font-size: 20px;
+}
+
+.orderfm input{
+	width: 370px;
+}
+
+.check{
+	margin-left: 8px;
+	
+}
+.schedule{
+	font-size: 17px;
+}
+
+.btn{
+	margin-left: 8px;
+	height: 40px;	
+	width: 230px;
+	font: bold 19px Arial;
+	border-radius: 10%;
+	border-color: pink;
+	background-color: #E11584;
+	color: white;
+}
+
+table{
+	font-size: 16px;
+}
+
+.contactfm{
+	height: 200px;
+	width: 400px;	
+}
+
+footer{
+	background-image: url("footer.jpg");
+	font-size: 15px;
+	height: 80px;
+	left:0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+}
+
+
+
+
+
+
+
+
